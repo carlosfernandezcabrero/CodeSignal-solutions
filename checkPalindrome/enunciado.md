@@ -18,9 +18,9 @@ For `inputString = "a"`, the output should be
 
 ## Input/Output
 
-- [execution time limit] 0.5 seconds (cpp)
-- [memory limit] 1 GB
-- [input] string inputString
+- **[execution time limit] 0.5 seconds (cpp)**
+- **[memory limit] 1 GB**
+- **[input] string inputString**
 
     A non-empty string consisting of lowercase characters.
 
@@ -28,6 +28,6 @@ For `inputString = "a"`, the output should be
 
     `1 ≤ inputString.length ≤ 10^5`.
 
-- [output] boolean
+- **[output] boolean**
 
     `true` if `inputString` is a palindrome, `false` otherwise.
