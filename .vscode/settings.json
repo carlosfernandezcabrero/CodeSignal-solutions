@@ -2,21 +2,21 @@
     "[cpp]": {
         "editor.defaultFormatter": "ms-vscode.cpptools"
     },
+    "[haskell]": {
+        "editor.defaultFormatter": "haskell.haskell"
+    },
+    "[go]": {
+        "editor.defaultFormatter": "golang.go"
+    },
     "files.associations": {
         "__hash_table": "cpp"
     },
     "[rust]": {
         "editor.defaultFormatter": "rust-lang.rust-analyzer"
     },
-    "[haskell]": {
-        "editor.defaultFormatter": "haskell.haskell"
-    },
     "haskell.toolchain": {
         "ghc": "8.10.4"
     },
-    "rust-analyzer.linkedProjects": [
-        "./almostIncreasingSequence/Cargo.toml"
-    ],
     "rust-analyzer.inlayHints.typeHints.enable": false,
     "rust-analyzer.inlayHints.closingBraceHints.enable": false
 }
