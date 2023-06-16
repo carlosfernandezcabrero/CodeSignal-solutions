@@ -14,6 +14,7 @@
     "[rust]": {
         "editor.defaultFormatter": "rust-lang.rust-analyzer"
     },
+    "haskell.manageHLS": "GHCup",
     "haskell.toolchain": {
         "ghc": "8.10.4"
     },
