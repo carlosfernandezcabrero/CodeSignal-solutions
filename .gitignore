@@ -4,3 +4,4 @@ Cargo.lock
 *.pyc
 *.out
 .vscode/
+venv/
