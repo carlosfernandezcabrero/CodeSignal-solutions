@@ -5,3 +5,8 @@ Cargo.lock
 *.out
 .vscode/
 venv/
+main
+
+# Added by cargo
+
+/target
